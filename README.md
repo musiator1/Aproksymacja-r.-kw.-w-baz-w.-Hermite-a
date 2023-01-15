@@ -1,0 +1,1 @@
+# Aproksymacja-r.-kw.-w-baz-w.-Hermite-a
