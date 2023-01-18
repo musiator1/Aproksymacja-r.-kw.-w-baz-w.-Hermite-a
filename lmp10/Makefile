@@ -22,4 +22,4 @@ interpolator.o: makespl.h points.h gaus/piv_ge_solver.h
 .PHONY: clean
 
 clean:
-	-rm *.o aprox intrp prosta
+	-rm *.o aprox intrp prosta hermite
